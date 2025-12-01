@@ -15,3 +15,9 @@ variable "repository_name" {
   type        = string
   default     = "example-repo"
 }
+
+variable "repository_visibility" {
+  description = "Visibility of the GitHub repository"
+  type        = string
+  default     = "private"
+}
