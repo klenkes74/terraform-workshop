@@ -1,0 +1,6 @@
+= Dependencies between resources
+
+* Implicit Dependencies
+  Terraform knows how the dependencies and order works.
+* Explicit dependencies
+  The dependencies need to be configured within the configuration.
