@@ -28,7 +28,7 @@
         "terraform.experimentalFeatures.prefillRequiredFields": true,
         "terraform.codelens.referenceCount": true,
         // If Terraform is installed in a custom path inside the container, override this
-        "terraform.languageServer.terraform.path": "/usr/local/bin/terraform"
+        "terraform.languageServer.terraform.path": "/usr/bin/terraform"
       }
     }
   }
